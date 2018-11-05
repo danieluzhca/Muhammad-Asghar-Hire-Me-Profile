@@ -1,0 +1,18 @@
+body{ background-color:pink;
+}
+
+p{
+    font-size:25px;
+}
+
+h2{
+    font-family: 'Mali', cursive; font-size:40px;color:Orange; 
+ }
+h3{
+        font-family: 'Noto Sans', sans-serif;font-size:30px;
+}
+.orange{
+        color:orange;  
+}
+li{font-size:30px;
+}
